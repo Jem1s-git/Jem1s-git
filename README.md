@@ -10,11 +10,18 @@ I am a beginner iOS developer with a passion for creating intuitive and high-qua
 
 ## 🛠️ Technologies and Tools
 
-- **Programming Languages**: Swift, Objective-C
-- **Frameworks**: SwiftUI, UIKit, ARKit, CoreML
-- **Tools**: Xcode, Git, Cocoapods, Firebase
-- **Databases**: CoreData, Realm
-- **Methodologies**: Agile, Scrum
+- Programming Languages: Swift
+- Frameworks: UIKit, SwiftUI
+- Multithreading: GCD, Operation, async/await
+- Networking: URLSession, Alamofire, JSON, Codable
+- Architectures: MVC, MVVM, VIPER
+- Version Control Systems: Git, GitHub
+- Data Storage: UserDefaults, Keychain, Core Data, Realm
+- Dependency Managers: CocoaPods, Carthage, Swift Package Manager
+- Testing: XCTest, Unit Tests, UI Tests
+- Tools: Figma, Postman, Proxyman
+- Basics of CI/CD, Fastlane.
+- English Language Proficiency: A2 level
 
 ## 📫 Contact Me
 
