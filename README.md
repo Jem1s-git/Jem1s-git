@@ -25,7 +25,7 @@ I am a beginner iOS developer with a passion for creating intuitive and high-qua
 
 ## 📫 Contact Me
 
-- 📧 Email: [Jem1s@bk.ru](mailto:your_email@example.com)
+- 📧 Email: [Jem1s@bk.ru](Jem1s@bk.ru)
 
 ## 🎯 Goals
 
